@@ -8,8 +8,8 @@ I am a Software Engineer from Glasgow, Scotland. I am predominantly a backend de
 
 With the use of Docker, most of the services I develop, regardless of the language, are deployed to Kubernetes. I typically create the K8s clusters, configure load balancers, ingress controllers and certificate management (TLS, auth rotation etc.).
 
-I also have experience with automating CI/CD pipelines, ensuring code quality and reliable deployments.
+I am also experienced with automating CI/CD pipelines, ensuring code quality and reliable deployments.
 
-🏢 Senior Software Engineer [@QueryClick](https://www.queryclick.com/).   
+🏢 Senior Backend Engineer [@Talentspace](https://www.talentspace.io/).   
 📍 Glasgow, Scotland.   
 👨‍💻 Design mostly Microservices. Develop mostly in Node.js (w/ TypeScript or >= ES6). Deploy mostly to Kubernetes.
