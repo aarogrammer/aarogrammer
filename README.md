@@ -10,6 +10,6 @@ With the use of Docker, most of the services I develop, regardless of the langua
 
 I am also experienced with automating CI/CD pipelines, ensuring code quality and reliable deployments.
 
-🏢 Senior Backend Engineer [@Talentspace](https://www.talentspace.io/).   
+🏢 Senior Backend Engineer [@Feeld](https://feeld.co/).   
 📍 Glasgow, Scotland.   
 👨‍💻 Design mostly Microservices. Develop mostly in Node.js (w/ TypeScript or >= ES6). Deploy mostly to Kubernetes.
