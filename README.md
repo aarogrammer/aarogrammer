@@ -1,15 +1,24 @@
 # Aaron Welsh 
-[![Twitter Badge](https://img.shields.io/badge/@_aaronwelsh-1DA1F2?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aaronwlesh)](https://twitter.com/_aaronwelsh)
 [![LinkedIn Badge](https://img.shields.io/badge/Aaron%20Welsh-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaronwelsh505/)](https://www.linkedin.com/in/aaronwelsh505/)
-[![Twitch Badge](https://img.shields.io/badge/@aarogrammer-6441a5?style=flat-square&labelColor=6441a5&logo=twitch&logoColor=white&link=https://twitch.tv/aarogrammer)](https://twitch.tv/aarogrammer)
 [![Website Badge](https://img.shields.io/badge/Website-16a085?style=flat-square&link=https://awelsh.dev)](https://awelsh.dev)   
 
-I am a Software Engineer from Glasgow, Scotland. I am predominantly a backend developer but have several years of experience with frontend development. My main stack is using Node.js with Docker (typically an alpine Linux distribution), MongoDB and/or SQL (Postgres, MSSQL) depending on the requirements. I work mostly on building microservices and deploying them to Kubernetes. The communication between microservices also depends on the requirements, but I am regularly using message brokers, REST APIs and GraphQL to bring everything together.   
+Glasgow-based Lead Software Engineer who still writes a lot of code. I’ve spent the last several years building backend systems and infrastructure across a range of environments — from containerised services running in Kubernetes and ECS to event-driven apps using Lambdas and other serverless tools.
 
-With the use of Docker, most of the services I develop, regardless of the language, are deployed to Kubernetes. I typically create the K8s clusters, configure load balancers, ingress controllers and certificate management (TLS, auth rotation etc.).
+My core strengths lie in backend development, system design, and infrastructure — designing microservices, working with queues and APIs, and ensuring services are reliable, observable, and easy to operate. I’ve worked across multiple cloud platforms and environments, and I adapt to what the team and product actually need.
 
-I am also experienced with automating CI/CD pipelines, ensuring code quality and reliable deployments.
+As a team lead, I take ownership of technical direction, support engineers through code reviews and mentoring, and help drive architectural decisions across services. I focus on building systems that are not just functional, but also maintainable and well-documented — especially important in fast-moving teams.
 
-🏢 Senior Backend Engineer [@Feeld](https://feeld.co/).   
+I’ve contributed to shaping team workflows, improving CI/CD pipelines, and establishing standards around testing, security, and incident response. And while I lead, I stay hands-on — still solving problems, still shipping features, and still diving deep when needed.
+
+🔧 Tools I work with regularly:
+
+Backend: TypeScript, Node.js, REST, GraphQL, event-driven systems
+
+Infra: Kubernetes, Docker, serverless (Lambdas etc.), certs, auth rotation
+
+CI/CD & Ops: GitHub Actions, GitLab CI, monitoring, incident handling.
+
+I'm always open to connecting with engineers and technical leaders tackling hard backend or infrastructure challenges.
+
+🏢 Lead Engineer [@Feeld](https://feeld.co/).   
 📍 Glasgow, Scotland.   
-👨‍💻 Design mostly Microservices. Develop mostly in Node.js (w/ TypeScript or >= ES6). Deploy mostly to Kubernetes.
